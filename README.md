@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="Yusuf" width="250" height="300">
+<img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="Yusuf" width="200" height="250">
 
 # 🌱 〣 CC2022 [NV]
 > Color Correction 2022
