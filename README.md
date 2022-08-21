@@ -2,7 +2,7 @@
 
 # CC2022 [NV]
 > Color Correction 2022
-## [`Download`](https://github.com/avianz37)
+## [`Download`](https://github.com/avianz37) versi terbaru
 
 #### ☑ Kelebihan
 |Kelebihan|▢|Keterangan|
