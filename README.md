@@ -2,7 +2,7 @@
 
 # 🌱 〣 CC2022 [NV]
 > Color Correction 2022
-- [### `Download`](https://github.com/avianz37) <= Klik
+- [### Download](https://github.com/avianz37) <= Klik
 > Created by Yusuf Expert
 
 #### ☑ Kelebihan
