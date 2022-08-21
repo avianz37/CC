@@ -5,7 +5,7 @@
 ### [`Download`](https://github.com/avianz37)
 
 #### ☑ Kelebihan
-|Kelebihan|Check|Keterangan|
+|Kelebihan|✓|Keterangan|
 |-|-|-|
 |**Ringan**|✔|*Support HP kentang*|
 
