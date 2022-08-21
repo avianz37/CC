@@ -2,16 +2,17 @@
 
 # 𝗖𝗖𝟮𝟬𝟮𝟮
 > ᴄᴏʟᴏʀ ᴄᴏʀʀᴇᴄᴛɪᴏɴ 2022
+
 ### [`𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗`](https://github.com/avianz37) ᴠᴇʀꜱɪ ᴛᴇʀʙᴀʀᴜ
 
-#### ☑ Kelebihan
-|Kelebihan|▢|Keterangan|
+### ☑ Kelebihan
+|Kelebihan|☐|Keterangan|
 |-|-|-|
 |**Ringan**|☑|*Support HP kentang*|
 
-## ✆ Owner
+### ✆ Owner
 - `Yusuf Expert`
-- [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
-- [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
+- [x] [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
+- [x] [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
-> 2022 © Yusuf
+> **2022 © Yusuf**
