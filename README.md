@@ -11,7 +11,7 @@
 |**Ringan**|☑|*Support HP kentang*|
 |**Simple**|☑|*Mudah digunakan*|
 
-### ✆ Owner
+### ✆ Owner/Creator
 - [x] `Yusuf Expert`
 - [x] [`WhatsApp`](https://wa.me/6283873115706) - *Save nomor Owner*
 - [x] [`Instagram`](https://www.instagram.com/yusuf.expert) - *Don't forget to Follow*
