@@ -7,7 +7,7 @@
 #### ☑ Kelebihan
 |Kelebihan|Check|Keterangan|
 |-|-|-|
-|**Ringan**|[✔](https://github.com/avianz37)|*Support HP kentang*|
+|**Ringan**|✔|*Support HP kentang*|
 
 ## ✆ Owner
 - `Yusuf Expert`
