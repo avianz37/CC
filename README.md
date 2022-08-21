@@ -5,9 +5,9 @@
 ### [`Download`](https://github.com/avianz37)
 
 #### ☑ Kelebihan
-|Kelebihan|✓|Keterangan|
+|Kelebihan|▢|Keterangan|
 |-|-|-|
-|**Ringan**|✔|*Support HP kentang*|
+|**Ringan**|☑|*Support HP kentang*|
 
 ## ✆ Owner
 - `Yusuf Expert`
