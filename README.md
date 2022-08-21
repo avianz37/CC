@@ -9,9 +9,10 @@
 |Kelebihan|☐|Keterangan|
 |-|-|-|
 |**Ringan**|☑|*Support HP kentang*|
+|**Simple**|☑|*Mudah digunakan*|
 
 ### ✆ Owner
-- `Yusuf Expert`
+- [x] `Yusuf Expert`
 - [x] [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
 - [x] [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
