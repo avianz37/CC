@@ -1,6 +1,6 @@
 <img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="CC2022" width="150" height="200">
 
-# 🌱 〣 CC2022 [NV]
+# CC2022 [NV]
 > Color Correction 2022
 ## [`Download`](https://github.com/avianz37)
 
