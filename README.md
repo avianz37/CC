@@ -3,6 +3,7 @@
 # 🌱 〣 CC2022 [NV]
 > Color Correction 2022
 > ### [`Download`](https://github.com/avianz37)
+> Created by Yusuf Expert
 
 #### ☑ Kelebihan
 |Kelebihan|Check|Keterangan|
@@ -14,4 +15,4 @@
 - [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
 - [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
 
-> Created by Yusuf Expert
+> 2022 © Yusuf
