@@ -13,7 +13,7 @@
 
 ### ✆ Owner
 - [x] `Yusuf Expert`
-- [x] [`WhatsApp`](wa.me/6283873115706) - *Save nomor Owner*
-- [x] [`Instagram`](instagram.com/yusuf.expert) - *Don't forget to Follow*
+- [x] [`WhatsApp`](https://wa.me/6283873115706) - *Save nomor Owner*
+- [x] [`Instagram`](https://www.instagram.com/yusuf.expert) - *Don't forget to Follow*
 
 > **2022 © Yusuf**
